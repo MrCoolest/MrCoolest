@@ -8,7 +8,6 @@ Feel Free For Asking Questions ☺
 
 ### **Contact Me**
 [![Mail](./Contact/1.png)](mailto:admin@cloudhadoop.com)&nbsp;
-[![Instagram](./Contact/2.png)](https://www.instagram.com/mr__coolest/?hl=en)&nbsp;
 [![Linkedin](./Contact/4.png)](https://www.linkedin.com/in/ankit-patwa-24b52b200)&nbsp;
 
 <br/>
